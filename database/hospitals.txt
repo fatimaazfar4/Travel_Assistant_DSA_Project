@@ -1,0 +1,8 @@
+Aga Khan Hospital, Gulshan_e_Iqbal, 4.9, 021-34930051, info@agakhan.org
+Jinnah Hospital, Cantt, 4.5, 021-99201300, info@jinnah.org
+Liaquat National Hospital, Stadium_Road, 4.6, 021-111456456, info@lnh.edu.pk
+Civil Hospital, Saddar, 4.3, 021-99215740, civilhospital@gmail.com
+South City Hospital, Clifton, 4.8, 021-35862301, info@southcity.com
+Patel Hospital, Gulshan, 4.4, 021-111174174, info@patel.org
+Dow University Hospital, Ojha_Campus, 4.2, 021-99217000, info@duhs.edu.pk
+PNS Shifa Hospital, DHA, 4.6, 021-48506700, info@pnsshifa.gov.pk

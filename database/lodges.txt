@@ -1,0 +1,6 @@
+Gulshan Lodge, Gulshan_E_Iqbal, 3.9, 2500, 021-34981234, gulshanlodge@gmail.com
+Maskan Guest House, Maskan_Chowrangi, 4.0, 3000, 021-34920044, maskanhouse@gmail.com
+Johar Lodge, Gulistan_e_Johar, 3.8, 2700, 021-34678888, joharlodge@yahoo.com
+Malir Inn, Malir, 4.1, 3200, 021-34560055, info@malirinn.com
+City Stay Inn, Saddar, 4.0, 2900, 021-35690077, citystay@inn.com
+NED Guest House, NED_University, 4.3, 3100, 021-99261261, nedguesthouse@edu.pk

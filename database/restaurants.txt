@@ -1,0 +1,7 @@
+Student Biryani, Saddar, Desi, 4.5, 400-800, 021-35693325
+Kolachi, Do_Darya, BBQ, 4.7, 800-1500, 021-111111001
+Kababjees, Highway, BBQ, 4.6, 700-1400, 021-111666111
+Ginsoy, Gulshan_E_Iqbal, Chinese, 4.5, 600-1200, 021-111446769
+Cafe Flo, Clifton, French, 4.8, 1500-3000, 021-35877440
+LalQila, Shahrah_e_Faisal, Desi, 4.7, 1200-2500, 021-111525745
+OPTp, Gulistan_e_Johar, FastFood, 4.3, 500-900, 021-34567890

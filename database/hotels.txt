@@ -1,0 +1,8 @@
+Pearl Continental Hotel, Saddar, 4.8, 18000, 021-111505505, info@pchotels.com
+Avari Towers, PECHS, 4.6, 16000, 021-111282747, info@avari.com
+Hotel Mehran, Shahrah-e-Faisal, 4.2, 8000, 021-35657000, mehran@hotel.com
+Ramada Plaza, Karachi_Airport, 4.3, 12000, 021-111600111, info@ramadaplaza.com
+Regent Plaza, Saddar, 4.1, 9500, 021-35657000, regent@plaza.com
+Movenpick Hotel, Clifton, 4.7, 20000, 021-35633333, contact@movenpick.com
+Marriott Hotel, Abdullah_Haroon_Road, 4.6, 18000, 021-35680111, marriott@hotel.com
+Embassy Inn, Gulshan_E_Iqbal, 4.0, 6000, 021-34920033, info@embassyinn.com
