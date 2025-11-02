@@ -1,0 +1,5 @@
+0 Larkana_Center 27.5578 68.2090
+1 Jinnah_Bagh 27.5570 68.2143
+2 Shaheed_Benzoir_Bhutto_Mausoleum 27.6614 68.2663
+3 Railway_Station 27.5555 68.2120
+4 Moen_jo_Daro 27.3284 68.1385
