@@ -1,0 +1,5 @@
+0 Badin Rest House Badin_Center 4.0 1500 24.6549 68.8392
+1 Talhar Family Lodge Talhar 3.8 1200 24.8840 68.8148
+2 Khoski Traveler’s Stop Khoski 3.9 1300 24.7362 68.8328
+3 Tando Guest Point Tando_Bago 4.1 1600 24.7890 68.9702
+4 Matli Stay Inn Matli 4.2 1700 25.0433 68.6549
