@@ -1,0 +1,5 @@
+Sagar View Hotel, Thatta_Center, 4.2, 4500, 0298-920310, sagarview@hotel.com
+Makli Hill Resort, Makli, 4.4, 5000, 0298-920411, makliresort@gmail.com
+Keenjhar Lake Resort, Keenjhar_Lake, 4.6, 6000, 0298-920789, keenjharresort@hotel.com
+Gharo Inn, Gharo, 4.0, 3500, 0298-922220, gharoinn@gmail.com
+Sujawal Hotel, Sujawal, 3.9, 3200, 0298-921455, sujawalhotel@gmail.com
