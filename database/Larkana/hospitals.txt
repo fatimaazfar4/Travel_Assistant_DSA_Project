@@ -1,0 +1,5 @@
+Chandka_Medical_College_Hospital, Larkana_Center, 4.5, 074-9410710, cmch@larkana.gov.pk
+Al_Shifa_Hospital, Jinnah_Bagh, 4.3, 074-9410230, alshifa@care.pk
+City_Hospital_Larkana, Railway_Station, 4.2, 074-9410450, cityhosp@gmail.com
+Saeed_Medical_Complex, Larkana_Center, 4.1, 074-9410320, saeed@med.pk
+People_Medical_Center, Shaheed_Benzoir_Bhutto_Mausoleum, 4.4, 074-9410888, pmc@edu.pk
