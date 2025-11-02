@@ -1,0 +1,4 @@
+Hotel Indus View, Khairpur_Center, 4.4, 3800, 0243-581111, indusview@gmail.com
+Royal City Hotel, Luqman_Market, 4.2, 3500, 0243-582222, royalcity@gmail.com
+University Guest House, Shah_Abdul_Latif_University, 4.3, 3000, 0243-583333, uniguest@gmail.com
+Comfort Inn Khairpur, Railway_Station, 4.1, 3200, 0243-584444, comfortinn@gmail.com
