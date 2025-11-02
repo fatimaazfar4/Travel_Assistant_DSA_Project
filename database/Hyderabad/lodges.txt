@@ -1,0 +1,5 @@
+Qasimabad Lodge, Qasimabad, 4.1, 3200, 022-3811221, qlodge@gmail.com
+Latifabad Inn, Latifabad, 3.9, 2900, 022-3811333, latifinn@gmail.com
+Tilak Guest House, Tilak_Incline, 4.0, 3100, 022-3811444, tilakguest@gmail.com
+Citizen Lodge, Citizen_Colony, 3.8, 2800, 022-3811555, citizenlodge@yahoo.com
+Indus View Lodge, Hyderabad_Center, 4.2, 3500, 022-3811666, indusview@lodge.com
