@@ -1,0 +1,5 @@
+Royal_Spice_Restaurant, Nawabshah_Center, Desi, 4.4, 800-1300, 026-9201200, royalspice@food.pk
+Food_Club, Sakrand, FastFood, 4.2, 600-1000, 026-9201301, foodclub@sakrand.pk
+Desi_Bite, Qazi_Ahmad, BBQ, 4.3, 700-1200, 026-9201402, desibite@qaziahmad.pk
+BBQ_Tonight, Daur, BBQ, 4.5, 900-1500, 026-9201503, bbqtonight@daur.pk
+Al_Madina_Restaurant, Bandhi, Desi, 4.1, 500-900, 026-9201604, madina@bandhi.pk
