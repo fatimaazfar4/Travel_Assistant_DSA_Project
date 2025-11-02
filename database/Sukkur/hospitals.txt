@@ -1,0 +1,5 @@
+Civil Hospital Sukkur, Frere_Road, 4.3, 071-9311150, civilhospital@sukkur.gov.pk
+SIUT Sukkur, Shikarpur_Road, 4.7, 071-9312400, info@siut.org
+Medicare Hospital, Sukkur_City_Center, 4.5, 071-9312700, medicare@sukkur.pk
+Lal Hospital, Minara_Road, 4.2, 071-9312800, lalhospital@gmail.com
+Lab-e-Mehran Clinic, Lab-e-Mehran_Park, 4.4, 071-9312350, labemehranclinic@health.pk
