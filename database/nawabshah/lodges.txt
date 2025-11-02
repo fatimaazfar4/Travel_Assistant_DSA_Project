@@ -1,0 +1,5 @@
+Green_Lodge, Nawabshah_Center, 4.2, 2500, 026-9203100, greenlodge@nawabshah.pk
+Traveler’s_Lodge, Sakrand, 4.0, 2300, 026-9203201, traveler@sakrand.pk
+Rose_Lodge, Qazi_Ahmad, 3.8, 2100, 026-9203302, rose@qaziahmad.pk
+Highway_Lodge, Daur, 4.1, 2600, 026-9203403, highway@daur.pk
+Family_Lodge, Bandhi, 3.7, 2000, 026-9203504, family@bandhi.pk
