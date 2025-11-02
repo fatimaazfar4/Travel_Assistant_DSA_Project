@@ -1,0 +1,3 @@
+Traveler’s Rest, Luqman_Market, 3.9, 2000, 0243-585555, travelersrest@gmail.com
+Indus Lodge, Railway_Station, 4.0, 2200, 0243-586666, induslodge@gmail.com
+Khairpur Guest Inn, Khairpur_Center, 4.1, 2300, 0243-587777, khairpurginn@gmail.com
