@@ -1,0 +1,5 @@
+0 MirpurKhas Guest House MirpurKhas_Center 4.0 1600 25.5262 69.0113
+1 Satellite Town Lodge Satellite_Town 3.9 1500 25.5204 69.0154
+2 Shahi Rest Stop Shahi_Bazaar 4.2 1700 25.5277 69.0189
+3 Heritage Lodge Old_Mirpur 4.1 1400 25.5159 69.0053
+4 Umerkot Stay Inn Umerkot_Road 4.0 1600 25.5383 69.0457
