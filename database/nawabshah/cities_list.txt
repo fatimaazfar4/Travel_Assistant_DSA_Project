@@ -1,0 +1,5 @@
+0 Nawabshah_Center 26.2454 68.4101
+1 Sakrand 26.1381 68.2746
+2 Qazi_Ahmad 26.0236 68.1198
+3 Daur 26.4565 68.3184
+4 Bandhi 26.6201 68.4248
