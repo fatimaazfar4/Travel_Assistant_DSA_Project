@@ -1,0 +1,5 @@
+0 Civil Hospital MirpurKhas_Center 4.3 25.5265 69.0114
+1 Satellite Town Health Complex Satellite_Town 4.0 25.5208 69.0157
+2 Shahi Medical Center Shahi_Bazaar 4.1 25.5276 69.0186
+3 Old City General Hospital Old_Mirpur 3.9 25.5155 69.0057
+4 Umerkot Road Hospital Umerkot_Road 4.2 25.5380 69.0459
