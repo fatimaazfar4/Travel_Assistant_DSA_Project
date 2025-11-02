@@ -1,0 +1,5 @@
+Liaquat University Hospital, Hyderabad_Center, 4.5, 022-9210300, info@luh.edu.pk
+Red Crescent Hospital, Tilak_Incline, 4.3, 022-9201500, redcrescent@pk.org
+Bhitai Hospital, Qasimabad, 4.2, 022-3812222, info@bhitai.com
+Civil Hospital, Giddu_Chowk, 4.4, 022-9202000, civilhospital@pk.gov
+Isra Hospital, Naseem_Nagar, 4.6, 022-3814000, contact@israhospital.edu.pk
