@@ -1,0 +1,5 @@
+0 Moro_Center 26.6632 68.0014
+1 National_Highway 26.6700 68.0102
+2 New_Bus_Stand 26.6610 68.0080
+3 Railway_Station 26.6580 68.0035
+4 Market_Area 26.6645 68.0068
