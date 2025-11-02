@@ -1,0 +1,4 @@
+Moro Civil Hospital, Moro_Center, 4.2, 0243-571111, morocivil@gmail.com
+Sehat Care Clinic, Market_Area, 4.0, 0243-572222, sehatcare@gmail.com
+Al-Shifa Hospital, National_Highway, 4.3, 0243-573333, alshifa@gmail.com
+Railway Medical Center, Railway_Station, 4.1, 0243-574444, railwaymed@gmail.com
