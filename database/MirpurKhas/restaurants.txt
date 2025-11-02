@@ -1,0 +1,5 @@
+0 Food Street MirpurKhas_Center 4.4 850 25.5263 69.0115
+1 Royal Biryani House Satellite_Town 4.3 700 25.5205 69.0158
+2 BBQ Tonight Shahi_Bazaar 4.5 950 25.5275 69.0190
+3 Al Madina Restaurant Old_Mirpur 4.1 600 25.5158 69.0056
+4 Umerkot Road Grill Umerkot_Road 4.2 800 25.5384 69.0462
