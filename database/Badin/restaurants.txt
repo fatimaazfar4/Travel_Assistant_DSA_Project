@@ -1,0 +1,5 @@
+0 Al-Habib Restaurant Badin_Center 4.3 800 24.6545 68.8389
+1 Food Club Talhar 4.1 650 24.8841 68.8152
+2 City Biryani House Khoski 4.0 500 24.7360 68.8320
+3 Tando Taste Tando_Bago 4.2 750 24.7891 68.9703
+4 Matli Grill Matli 4.4 900 25.0430 68.6545
