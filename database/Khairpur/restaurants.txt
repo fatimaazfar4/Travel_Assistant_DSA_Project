@@ -1,0 +1,5 @@
+Food Street Khairpur, Luqman_Market, Desi, 4.4, 400-900, 0243-588888
+Indus Tandoor, Khairpur_Center, BBQ, 4.5, 500-1000, 0243-589999
+Cafe 68, Shah_Abdul_Latif_University, FastFood, 4.3, 300-700, 0243-581010
+Taste Point, Railway_Station, Pakistani, 4.2, 400-800, 0243-582020
+Al-Rehman Restaurant, Civil_Hospital, Desi, 4.1, 350-750, 0243-583030
