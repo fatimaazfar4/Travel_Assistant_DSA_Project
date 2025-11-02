@@ -1,0 +1,5 @@
+Inter Park Hotel, Sukkur_City_Center, 4.4, 7000, 071-9312300, info@interparkhotel.com
+Hotel One Sukkur, Minara_Road, 4.6, 8500, 071-9313400, info@hotelone.com
+Lab-e-Mehran Hotel, Lab-e-Mehran_Park, 4.2, 6000, 071-9311280, labemehran@hotel.pk
+Royal Continental Hotel, Frere_Road, 4.3, 6500, 071-9312890, royalcontinental@hotel.pk
+Barrage View Hotel, Sukkur_Barrage, 4.5, 9000, 071-9312200, barrageview@hotel.pk
