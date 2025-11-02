@@ -1,0 +1,5 @@
+City Inn Lodge, Sukkur_City_Center, 4.0, 2500, 071-9311180, cityinnlodge@gmail.com
+Green Stay Lodge, Rohri_Bridge, 4.1, 2800, 071-9312560, greenstay@lodge.pk
+Frere Guest House, Frere_Road, 3.9, 2300, 071-9312100, frereguest@gmail.com
+Railway View Lodge, Railway_Station, 4.2, 3000, 071-9312780, railwayview@lodge.pk
+Sukkur Rest House, Minara_Road, 4.0, 2700, 071-9312400, sukkurresthouse@gmail.com
