@@ -1,0 +1,4 @@
+Khairpur Civil Hospital, Civil_Hospital, 4.3, 0243-584141, civilkhairpur@gmail.com
+Indus Medical Center, Khairpur_Center, 4.2, 0243-585252, indusmed@gmail.com
+Al-Shifa Clinic, Luqman_Market, 4.0, 0243-586363, alshifakhairpur@gmail.com
+University Health Unit, Shah_Abdul_Latif_University, 4.1, 0243-587474, unihealth@gmail.com
