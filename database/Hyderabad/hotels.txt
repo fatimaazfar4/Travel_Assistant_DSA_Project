@@ -1,3 +1,5 @@
-Indus Hotel, Saddar, 4.2, 8000, 022-9201000, indus@hotel.com
-Crown Hotel, Auto_Bhan_Road, 4.1, 7500, 022-9202000, crown@hotel.com
-City Inn, Qasimabad, 3.9, 6000, 022-9203000, cityinn@hotel.com
+Indus Hotel, Hyderabad_Center, 4.4, 7500, 022-9201001, info@indushotel.com
+Hotel City Gate, Saddar, 4.2, 4500, 022-9202002, citygate@hotel.com
+Grace Inn, Latifabad, 4.1, 4000, 022-9203003, graceinn@hotel.com
+Crown Hotel, Qasimabad, 4.0, 3800, 022-9204004, crownhotel@pk.com
+Hotel Royal Taj, Auto_Bhan_Road, 4.3, 5000, 022-9205005, royaltaj@hotel.com
