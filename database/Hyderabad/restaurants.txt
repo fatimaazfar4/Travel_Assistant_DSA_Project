@@ -1,0 +1,5 @@
+Bombay Bakery, Saddar, Bakery, 4.8, 400-800, 022-3811111
+Ginsoy, Auto_Bhan_Road, Chinese, 4.6, 600-1200, 022-3812222
+Pizza Point, Qasimabad, FastFood, 4.4, 500-900, 022-3813333
+Lal Qila Restaurant, Latifabad, Desi, 4.5, 800-1500, 022-3814444
+KFC Hyderabad, Saddar, FastFood, 4.3, 500-900, 022-3815555
