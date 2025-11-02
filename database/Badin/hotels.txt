@@ -1,0 +1,5 @@
+0 Hotel Royal Inn Badin_Center 4.2 3500 24.6551 68.8381
+1 Talhar Guest House Talhar 3.9 2800 24.8845 68.8140
+2 Khoski Inn Khoski 4.0 3000 24.7358 68.8331
+3 Tando Star Hotel Tando_Bago 4.3 3200 24.7887 68.9700
+4 Matli Comfort Lodge Matli 4.5 3700 25.0435 68.6551
