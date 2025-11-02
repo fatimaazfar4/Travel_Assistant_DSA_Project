@@ -1,0 +1,5 @@
+Food Town Moro, Market_Area, Desi, 4.4, 500-1000, 0243-578808
+Highway Dine, National_Highway, BBQ, 4.5, 600-1200, 0243-579909
+Tandoori Flame, Moro_Center, Desi, 4.3, 400-900, 0243-571010
+Spicy Bites, New_Bus_Stand, FastFood, 4.2, 300-700, 0243-572020
+Al-Habib Restaurant, Railway_Station, Pakistani, 4.6, 600-1100, 0243-573030
