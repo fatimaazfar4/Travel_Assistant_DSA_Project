@@ -1,0 +1,5 @@
+0 Hotel Mehran Palace MirpurKhas_Center 4.3 4000 25.5261 69.0112
+1 City Star Hotel Satellite_Town 4.0 3200 25.5206 69.0156
+2 Shahi Palace Inn Shahi_Bazaar 4.5 4500 25.5279 69.0188
+3 Old City Lodge Old_Mirpur 3.8 2800 25.5157 69.0055
+4 Umerkot Road Residency Umerkot_Road 4.1 3500 25.5381 69.0458
