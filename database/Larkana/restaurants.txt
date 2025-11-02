@@ -1,0 +1,5 @@
+Food_Park_Larkana, Jinnah_Bagh, Desi, 4.4, 500-900, 074-9410500
+Spice_Villa, Larkana_Center, BBQ, 4.5, 700-1200, 074-9410522
+Indus_Breeze_Restaurant, Moen_jo_Daro, Pakistani, 4.6, 800-1400, 074-9410566
+Al_Madina_Biryani, Railway_Station, Desi, 4.2, 400-800, 074-9410533
+Shahi_Tandoor, Larkana_Center, BBQ, 4.3, 500-1000, 074-9410550
