@@ -1,0 +1,3 @@
+Indus Hotel, Saddar, 4.2, 8000, 022-9201000, indus@hotel.com
+Crown Hotel, Auto_Bhan_Road, 4.1, 7500, 022-9202000, crown@hotel.com
+City Inn, Qasimabad, 3.9, 6000, 022-9203000, cityinn@hotel.com
