@@ -1,0 +1,3 @@
+Traveler’s Lodge, Railway_Station, 3.8, 1800, 0243-575505, travelerslodge@gmail.com
+Moro Rest House, Market_Area, 3.9, 2000, 0243-576606, mororest@gmail.com
+Comfort Stay Moro, New_Bus_Stand, 4.0, 2200, 0243-577707, comfortstay@gmail.com
