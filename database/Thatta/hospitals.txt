@@ -1,0 +1,5 @@
+Civil Hospital Thatta, Thatta_Center, 4.4, 0298-920001, civilthatta@gmail.com
+Makli Rural Health Center, Makli, 4.2, 0298-920145, maklihealth@yahoo.com
+Sujawal District Hospital, Sujawal, 4.1, 0298-921210, sujawalhospital@gmail.com
+Gharo Basic Health Unit, Gharo, 3.9, 0298-922100, gharobhu@gmail.com
+Keenjhar Medical Center, Keenjhar_Lake, 4.0, 0298-923344, keenjharclinic@gmail.com
