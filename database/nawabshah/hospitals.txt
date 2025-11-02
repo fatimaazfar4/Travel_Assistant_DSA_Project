@@ -1,0 +1,5 @@
+Peoples_Medical_Hospital, Nawabshah_Center, 4.6, 026-9204100, peoples@hospital.pk
+Sakrand_Hospital, Sakrand, 4.3, 026-9204201, sakrand@hospital.pk
+Qazi_Ahmad_Medical, Qazi_Ahmad, 4.2, 026-9204302, qazi@medical.pk
+Daur_Health_Center, Daur, 4.4, 026-9204403, daurhealth@pk
+Bandhi_Hospital, Bandhi, 4.1, 026-9204504, bandhi@hospital.pk
