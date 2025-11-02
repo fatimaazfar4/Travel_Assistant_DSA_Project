@@ -1,1 +1,10 @@
-
+0 Thatta_Center 24.7470 67.9230
+1 Makli 24.7508 67.9203
+2 Keenjhar_Lake 24.8540 68.0015
+3 Gharo 24.7382 67.5863
+4 Mirpur_Sakro 24.6094 67.6128
+5 Sujawal 24.6034 68.0745
+6 Dhabeji 24.7905 67.4849
+7 Jhirik 24.7601 67.7248
+8 Ghulamullah_Town 24.6303 68.0022
+9 Chilya 24.7114 67.9500
