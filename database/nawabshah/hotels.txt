@@ -1,0 +1,5 @@
+Galaxy_Hotel, Nawabshah_Center, 4.3, 4500, 026-9202100, galaxy@hotel.pk
+Star_Inn, Sakrand, 4.1, 3800, 026-9202201, starinn@sakrand.pk
+Comfort_Palace, Qazi_Ahmad, 4.0, 3500, 026-9202302, comfort@qaziahmad.pk
+Hotel_Daur, Daur, 4.2, 4000, 026-9202403, daurhotel@lodges.pk
+Relax_Inn, Bandhi, 3.9, 3000, 026-9202504, relaxinn@bandhi.pk
