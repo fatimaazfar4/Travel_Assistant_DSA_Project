@@ -1,0 +1,5 @@
+0 MirpurKhas_Center 25.5260 69.0111
+1 Satellite_Town 25.5203 69.0155
+2 Shahi_Bazaar 25.5278 69.0187
+3 Old_Mirpur 25.5156 69.0054
+4 Umerkot_Road 25.5382 69.0459
