@@ -1,0 +1,6 @@
+Al-Habib Restaurant, Thatta_Center, Desi, 4.5, 400-800, 0298-920200
+Makli Point, Makli, BBQ, 4.3, 600-1000, 0298-920555
+Keenjhar Lake Cafe, Keenjhar_Lake, FastFood, 4.6, 500-900, 0298-921010
+Gharo Food Corner, Gharo, Desi, 4.2, 400-700, 0298-922330
+Sujawal Biryani House, Sujawal, Desi, 4.4, 350-600, 0298-921233
+Dhabeji Dera, Dhabeji, BBQ, 4.3, 500-800, 0298-923233
