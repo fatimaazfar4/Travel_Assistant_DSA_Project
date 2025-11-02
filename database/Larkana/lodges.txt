@@ -1,0 +1,5 @@
+Larkana_Lodge, Larkana_Center, 4.0, 2200, 074-9410211, larkanalodge@gmail.com
+Comfort_Inn, Jinnah_Bagh, 4.1, 2400, 074-9410225, comfortinn@lodge.pk
+Green_Park_Lodge, Railway_Station, 3.9, 2000, 074-9410240, greenpark@stay.com
+Sindh_Rest_House, Shaheed_Benzoir_Bhutto_Mausoleum, 4.2, 2600, 074-9410288, sindhresthouse@larkana.pk
+Indus_View_Lodge, Moen_jo_Daro, 4.3, 3000, 074-9410301, indusview@lodge.com
