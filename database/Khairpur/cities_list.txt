@@ -1,0 +1,5 @@
+0 Khairpur_Center 27.5295 68.7591
+1 Shah_Abdul_Latif_University 27.5238 68.7520
+2 Civil_Hospital 27.5265 68.7565
+3 Luqman_Market 27.5312 68.7621
+4 Railway_Station 27.5350 68.7580
