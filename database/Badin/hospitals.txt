@@ -1,0 +1,5 @@
+0 Civil Hospital Badin Badin_Center 4.3 24.6554 68.8385
+1 Talhar Health Complex Talhar 4.0 24.8846 68.8150
+2 Khoski Medical Center Khoski 3.8 24.7359 68.8323
+3 Tando Bago Hospital Tando_Bago 4.2 24.7889 68.9701
+4 Matli General Hospital Matli 4.1 25.0432 68.6546
