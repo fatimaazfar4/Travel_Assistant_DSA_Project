@@ -1,0 +1,4 @@
+Hotel Moro Palace, Moro_Center, 4.3, 3500, 0243-571001, moropalace@gmail.com
+Royal Inn Moro, Market_Area, 4.1, 3000, 0243-572202, royalinn@gmail.com
+City Comfort Hotel, New_Bus_Stand, 4.0, 2800, 0243-573303, comfortmoro@yahoo.com
+National View Hotel, National_Highway, 4.4, 3600, 0243-574404, nationalview@gmail.com
