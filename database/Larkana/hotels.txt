@@ -1,0 +1,5 @@
+Indus_Hotel_Larkana, Jinnah_Bagh, 4.3, 4500, 074-9410655, indushotel@gmail.com
+City_Inn_Hotel, Railway_Station, 4.1, 3500, 074-9410660, cityinn@larkana.pk
+Hotel_Golden_Peak, Larkana_Center, 4.2, 4000, 074-9410702, goldenpeak@hotel.com
+Shalimar_Hotel, Jinnah_Bagh, 4.0, 3200, 074-9410640, shalimar@hotel.com
+Mausoleum_View_Hotel, Shaheed_Benzoir_Bhutto_Mausoleum, 4.4, 4700, 074-9410688, mausoleumview@hotel.com
